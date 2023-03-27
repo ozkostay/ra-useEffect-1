@@ -1,0 +1,11 @@
+
+.listItem {
+  border: 1px solid black;
+  width: 330px;
+  height: 50px; 
+  padding: 10px 22px;
+  font-size: 18px;
+  text-align: left;
+  line-height: 50px;
+  
+}
