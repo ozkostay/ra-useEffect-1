@@ -1,7 +1,7 @@
 import React from 'react';
 
-export default function City () {
+export default function City ({city}) {
   return <div>
-    City
+    City: {city}
   </div>
 }

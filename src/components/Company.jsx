@@ -1,7 +1,7 @@
 import React from 'react';
 
-export default function Company () {
+export default function Company ({company}) {
   return <div>
-    Company
+    Company: {company}
   </div>
 }
