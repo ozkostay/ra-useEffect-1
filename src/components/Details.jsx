@@ -8,7 +8,7 @@ import Position from './Position';
 
 export default function Details ({item}) {
 
-  console.log('+++', item);
+  // console.log('+++', item);
   if (!item) {
     return;
   }

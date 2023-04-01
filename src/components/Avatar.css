@@ -1,6 +1,6 @@
 .pic {
   /* background-image: url(https://i.pravatar.cc/300); */
-  border: 1px solid black;
+  border: 1px solid #ccc;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;

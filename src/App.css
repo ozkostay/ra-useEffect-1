@@ -7,11 +7,15 @@ blockquote,q{quotes:none}
 blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}
 table{border-collapse:collapse;border-spacing:0}
 
+h1 {
+  font-size: 32;
+  font-weight: bold;
+}
 
 .wrapper {
   display: flex;
   justify-content: space-between;
-  border: 1px solid black;
+  /* border: 1px solid black; */
   width: 700px;
   margin-top: 50px;
 }

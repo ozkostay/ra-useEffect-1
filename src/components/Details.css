@@ -1,4 +1,24 @@
 .wrapp-details {
-  border: 1px solid black;
+  /* border: 1px solid black; */
   width: 288px;
+}
+
+.details-item, .detail-name{
+  border: 1px solid #ccc;
+  width: 85%;
+  min-height: 50px; 
+  padding: 20px 22px 1px;
+  font-size: 18px;
+  text-align: left;
+  /* line-height: 50px; */
+}
+
+.detail-name {
+  border: 1px solid #ccc;
+  width: 85%px;
+  min-height: 50px; 
+  padding: 20px 22px 1px;
+  text-align: left;
+  font-size: 22px;
+  font-weight: bold;
 }
